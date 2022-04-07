@@ -4,7 +4,7 @@ import Link from "next/link";
 import Logo from "./Logo";
 import { ThemeSelect, ThemeToggle } from "./ThemeToggle";
 
-export default function Header() {
+function Header() {
   return (
     <div className="flex justify-center bg-white">
       <header className="sticky inset-x-0 top-0 z-20 flex items-center justify-between bg-white py-2 px-3 dark:bg-slate-900 sm:py-3 w-[1024px]">
@@ -97,3 +97,5 @@ const MenuPopOver = () => {
     </div>
   );
 };
+
+export default Header;
