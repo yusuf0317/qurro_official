@@ -28,7 +28,7 @@ const Why = () => {
   return (
     <div className="flex justify-center">
       <div className="mt-20 w-[1024px]">
-        <p className="text-3xl sm:text-4xl md:text-5xl text-center font-[700]">Mengapa di Qurro_official.id</p>
+        <p className="text-3xl sm:text-4xl md:text-5xl text-center font-[700]">Kenapa di Qurro_official.id</p>
         <div className="mt-10">
           <div className="flex justify-center flex-wrap">
             <div className="lg:w-[308px] md:w-[380px] sm:w-[500px] lg:h-[310px] pb-4 shadow-lg rounded-xl mx-4 mb-8 hover:translate-y-2 hover:transition-all duration-200 hover:shadow-inner">
