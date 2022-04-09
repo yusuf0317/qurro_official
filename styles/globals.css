@@ -6,3 +6,17 @@
   font-family: "Montserrat Alternates", sans-serif;
   font-family: "Nunito", sans-serif;
 }
+.owl-prev,
+.owl-next {
+  margin-top: 10px;
+  margin-right: 10px;
+}
+.owl-prev span,
+.owl-next span {
+  border-radius: 5px;
+  font-size: 30px;
+  padding: 0 10px;
+  background: white;
+  color: blue;
+  box-shadow: 2px 2px 2px #dddddd;
+}

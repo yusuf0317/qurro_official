@@ -13,6 +13,7 @@ export default class Document extends NextDocument {
           <link rel="preconnect" href="https://fonts.googleapis.com" />
           <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="" />
           <link href="https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@200;600&family=Nunito:wght@200;300&display=swap" rel="stylesheet"></link>
+          <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
         </Head>
         <body
           className="bg-neutral-100 text-gray-800 dark:bg-gray-800
